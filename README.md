@@ -29,7 +29,7 @@
 
 ### 2. Run Locally
 ```bash
-cd /home/krrish/.gemini/antigravity/scratch/pulse-downloader
+cd your-path
 
 # Run unified fullstack production server (serves UI + API on port 3001)
 npm run server
